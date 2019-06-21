@@ -100,8 +100,6 @@ source $HOME/.bashrc
 
 ##################################################################################
 
-sudo a
-
 echo "[Install the turtlebot3 simulation package dependencies]"
 cd ~/${name_catkin_workspace}/src/
 git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
